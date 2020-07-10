@@ -1,0 +1,3 @@
+#1から100を表示する。
+for i in range(1,100):
+  print(i)
